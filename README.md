@@ -59,14 +59,6 @@
 
 </div>
 
-### Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr47&theme=tokyonight&column=6&no-frame=true&margin-w=8" alt="trophies"/></a>
-
-</div>
-
 ---
 
 ### Activity
